@@ -6,5 +6,5 @@ const authToken  = process.env.TWILIO_AUTH_TOKEN;
 const client = require('twilio')(accountSid, authToken);
 
 client.messages
-      .create({body: 'Ahoy from Twilio!', from: '+16783647909', to: '+14086271631'})
+      .create({body: 'Ahoy from Twilio!', from: <from-ph-number-in-e164-format>, to: <to-phone-number>-in-e164-format>})
       .then(message => console.log(message.sid));
