@@ -2,7 +2,7 @@
 
 # Send an SMS using Twilio
 
-This code sample sends an SMS message using Twilio.
+Send an quick SMS message using Twilio.
 
 ## Installing / Getting started
 
