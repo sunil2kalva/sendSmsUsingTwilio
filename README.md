@@ -1,5 +1,3 @@
-![Logo of the project](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
-
 # Send an SMS using Twilio
 
 Send an quick SMS message using Twilio.
